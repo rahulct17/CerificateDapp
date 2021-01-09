@@ -1,0 +1,21 @@
+{
+  "name": "certdapp",
+  "version": "1.0.0",
+  "description": "A simple Dapp that will allow user to register their certificate on Ethereum Blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"lite-server"
+    
+  },
+  "keywords": [
+    "blockchain",
+    "certificate",
+    "dapp"
+  ],
+  "author": "Rahul Thakur",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
